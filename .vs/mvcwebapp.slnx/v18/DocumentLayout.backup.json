@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2480261\\source\\repos\\mvcwebapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF651F1-D880-472A-865E-2E71293EF191}|mvcwebapp\\mvcwebapp.csproj|c:\\users\\2480261\\source\\repos\\mvcwebapp\\mvcwebapp\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF651F1-D880-472A-865E-2E71293EF191}|mvcwebapp\\mvcwebapp.csproj|solutionrelative:mvcwebapp\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF651F1-D880-472A-865E-2E71293EF191}|mvcwebapp\\mvcwebapp.csproj|c:\\users\\2480261\\source\\repos\\mvcwebapp\\mvcwebapp\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF651F1-D880-472A-865E-2E71293EF191}|mvcwebapp\\mvcwebapp.csproj|solutionrelative:mvcwebapp\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF651F1-D880-472A-865E-2E71293EF191}|mvcwebapp\\mvcwebapp.csproj|c:\\users\\2480261\\source\\repos\\mvcwebapp\\mvcwebapp\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBF651F1-D880-472A-865E-2E71293EF191}|mvcwebapp\\mvcwebapp.csproj|solutionrelative:mvcwebapp\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\2480261\\source\\repos\\mvcwebapp\\mvcwebapp\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "mvcwebapp\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\2480261\\source\\repos\\mvcwebapp\\mvcwebapp\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "mvcwebapp\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T05:00:26.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\2480261\\source\\repos\\mvcwebapp\\mvcwebapp\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "mvcwebapp\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\2480261\\source\\repos\\mvcwebapp\\mvcwebapp\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "mvcwebapp\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T05:00:19.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2480261\\source\\repos\\mvcwebapp\\mvcwebapp\\Views\\Registration\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcwebapp\\Views\\Registration\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2480261\\source\\repos\\mvcwebapp\\mvcwebapp\\Views\\Registration\\Index.cshtml",
+              "RelativeToolTip": "mvcwebapp\\Views\\Registration\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T05:00:10.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

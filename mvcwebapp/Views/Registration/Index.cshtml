@@ -1,0 +1,52 @@
+﻿@* Model Binding *@
+@model mvcwebapp.Models.Entities.User
+@{
+    ViewData["Title"] = "Register";
+}
+<h1>Welcome To The Registration Page</h1>
+<form method="post" asp-action="Index">
+    <fieldset>
+        
+        <div class="row">
+
+            <label for="labelName" class="col-sm-2 col-form-label">Name</label>
+            <input type="text" asp-for="Name" class="form-control" name="name" id="Name"  placeholder="Enter Name">
+        
+        </div>
+        <div>
+            <label for="labelInputEmail1" class="form-label mt-4">Email address</label>
+            <input type="email" asp-for="Email" class="form-control" name="Email" id="Email" aria-describedby="emailHelp" placeholder="Enter email">
+            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+        </div>
+        <div>
+            <label for="exampleInputPassword1" class="form-label mt-4">Password</label>
+            <input type="password" asp-for="Password" class="form-control" name="Password" id="Password1" placeholder="Password" autocomplete="off">
+        </div>
+        
+        
+        
+        <div>
+            <label for="exampleTextarea" class="form-label mt-4">Bio Data</label>
+            <textarea class="form-control" asp-for="BioData" name="Biodata" id="exampleTextarea" rows="3"></textarea>
+        </div>
+        
+        <fieldset>
+            <legend class="mt-4">Gender</legend>
+            <div class="form-check">
+                <input class="form-check-input" asp-for="Gender" type="radio" name="gender" id="male" value="M" checked="">
+                <label class="form-check-label" for="optionsRadios1">
+                   Male
+                </label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" asp-for="Gender" type="radio" name="gender" id="female" value="F">
+                <label class="form-check-label" for="optionsRadios2">
+                    Female
+                </label>
+            </div>
+          
+        </fieldset>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </fieldset>
+
+</form>
